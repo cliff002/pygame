@@ -7,7 +7,7 @@ def main():
     # initialize the pygame module
     pygame.init()
     # load and set the logo
-    logo = pygame.image.load(r"C:\Users\cliff\Desktop\download.jpg")
+    logo = pygame.image.load(r"C:\Users\cliff\GitHub\pygame\Images\Logo.png")
     pygame.display.set_icon(logo)
     pygame.display.set_caption("minimal program")
      
