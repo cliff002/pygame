@@ -1,2 +1,2 @@
-# pygame
-Initial syntax for pygame.
+# django_angualr
+Simple application using django and angular.
